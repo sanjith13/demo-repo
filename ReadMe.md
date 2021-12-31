@@ -1,4 +1,2 @@
-hello new to git!.
+reposity for learing propose
 
-
-trying to find new things
